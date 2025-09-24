@@ -10,6 +10,7 @@ public class Demo1Application {
 		int x=100;
 		int y=100;
 		int z=x+y;
+		int mul=x*y;
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
