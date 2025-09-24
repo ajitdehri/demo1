@@ -20,8 +20,13 @@ public class Demo1Application {
     boolean isSubscribe=true;
 		char ch1='h';
     char ch2='h';
+    int v1=500;
     boolean isSubscribe=true;
+
 		int v2=700;
+
+		
+
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
