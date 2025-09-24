@@ -18,6 +18,7 @@ public class Demo1Application {
 		float m=10.56f;
 		char ch='x';
                 boolean isSubscribe=true;
+		int v1=500;
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
